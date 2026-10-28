@@ -14,6 +14,8 @@
 - 💬 **Ask me about:** React, Next.js, TypeScript, state management (Redux Toolkit / Zustand), and NestJS.
 - 🎯 **Open to:** Full-time software engineering roles, freelance opportunities, mentoring, and technical collaboration.
 
+---
+
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
@@ -28,6 +30,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiyazkhan024&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
   </picture>
 </div>
+
+---
 
 ### 📫 Connect With Me
 
